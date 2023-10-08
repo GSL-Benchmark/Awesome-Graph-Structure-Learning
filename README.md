@@ -62,6 +62,7 @@
 * [arXiv 2021] **A General Unified Graph Neural Network Framework Against Adversarial Attacks** [[Paper](https://openreview.net/pdf?id=bpUHBc9HCU8)]
 * [AAAI 2021] **Heterogeneous Graph Structure Learning for Graph Neural Networks** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16600) | [Code](https://github.com/AndyJZhao/HGSL)]
 * [ICLR 2021] **Discrete Graph Structure Learning for Forecasting Multiple Time Series** [[Paper](https://openreview.net/pdf?id=WEHSlH5mOk) | [Code](https://github.com/chaoshangcs/GTS)]
+* [IoTJ 2021] **Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT** [[Paper](https://arxiv.org/pdf/2104.03466.pdf) | [Code](https://github.com/zackchen-lb/GTA)]
 
 2020
 ----
