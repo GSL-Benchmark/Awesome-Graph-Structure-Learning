@@ -11,6 +11,7 @@
 ----
 * [NeurIPS 2023] **Towards Label Position Bias in Graph Neural Networks** [[Paper](https://arxiv.org/abs/2305.15822)]
 * [ICDE 2023] **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting** [[Paper](https://arxiv.org/abs/2309.12028)]
+* [CIKM 2023] **Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs** [[Paper](https://dl.acm.org/doi/10.1145/3583780.3615081) | [Code](https://github.com/ViktorAxelsen/TGSL)]
 * [CIKM 2023] **RDGSL: Dynamic Graph Representation Learning with Structure Learning** [[Paper](https://arxiv.org/abs/2309.02025)]
 * [CIKM 2023] **Homophily-enhanced Structure Learning for Graph Clustering** [[Paper](https://arxiv.org/abs/2308.05309) | [Code](https://github.com/galogm/HoLe)]
 * [IJCAI 2023] **Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification** [[Paper](https://www.ijcai.org/proceedings/2023/0234.pdf) | [Code](https://github.com/KellyGong/SparseGAD)]
