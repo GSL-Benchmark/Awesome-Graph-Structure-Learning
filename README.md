@@ -9,6 +9,7 @@
 
 2023
 ----
+* [NeurIPS 2023] **Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First** [[Paper](https://arxiv.org/abs/2310.18735) | [Code](https://github.com/rollingstonezz/Curriculum_learning_for_GNNs)]
 * [NeurIPS 2023] **Towards Label Position Bias in Graph Neural Networks** [[Paper](https://arxiv.org/abs/2305.15822)]
 * [ICDE 2023] **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting** [[Paper](https://arxiv.org/abs/2309.12028)]
 * [CIKM 2023] **Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs** [[Paper](https://dl.acm.org/doi/10.1145/3583780.3615081) | [Code](https://github.com/ViktorAxelsen/TGSL)]
