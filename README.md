@@ -6,9 +6,13 @@
 
 <!-- ## Literature [sorted in reverse chronological order]-->
 
+2024
+----
+* [AAAI 2024] **Neural Gaussian Similarity Modeling for Differential Graph Structure Learning** [[Paper](https://arxiv.org/abs/2312.09498)]
 
 2023
 ----
+* [NeurIPS 2023] **Latent Graph Inference with Limited Supervision** [[Paper](https://arxiv.org/abs/2310.04314) | [Code](https://github.com/Jianglin954/LGI-LS)]
 * [NeurIPS 2023] **Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First** [[Paper](https://arxiv.org/abs/2310.18735) | [Code](https://github.com/rollingstonezz/Curriculum_learning_for_GNNs)]
 * [NeurIPS 2023] **Towards Label Position Bias in Graph Neural Networks** [[Paper](https://arxiv.org/abs/2305.15822)]
 * [ICDE 2023] **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting** [[Paper](https://arxiv.org/abs/2309.12028)]
