@@ -8,6 +8,8 @@
 
 2024
 ----
+* [WWW 2024] **DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning** [[Paper](https://arxiv.org/abs/2402.13711) | [Code](https://github.com/seungyoon-Choi/DSLR_official)]
+* [WWW 2024] **Self-Guided Robust Graph Structure Refinement** [[Paper](https://arxiv.org/abs/2402.11837) | [Code](https://github.com/yeonjun-in/torch-SG-GSR)]
 * [AAAI 2024] **Neural Gaussian Similarity Modeling for Differential Graph Structure Learning** [[Paper](https://arxiv.org/abs/2312.09498)]
 
 2023
