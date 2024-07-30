@@ -8,6 +8,9 @@
 
 2024
 ----
+* [TKDE 2024] **Bi-Level Graph Structure Learning for Next POI Recommendation** [[Paper](https://ieeexplore.ieee.org/abstract/document/10521856)]
+* [ICDE 2024] **Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting** [[Paper](https://arxiv.org/pdf/2312.16403)]
+* [ACL 2024] **S2GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis** [[Paper](https://arxiv.org/abs/2406.02902) | [Code](https://github.com/ouy7han/S2GSL)]
 * [WWW 2024] **DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning** [[Paper](https://arxiv.org/abs/2402.13711) | [Code](https://github.com/seungyoon-Choi/DSLR_official)]
 * [WWW 2024] **Self-Guided Robust Graph Structure Refinement** [[Paper](https://arxiv.org/abs/2402.11837) | [Code](https://github.com/yeonjun-in/torch-SG-GSR)]
 * [AAAI 2024] **Neural Gaussian Similarity Modeling for Differential Graph Structure Learning** [[Paper](https://arxiv.org/abs/2312.09498)]
