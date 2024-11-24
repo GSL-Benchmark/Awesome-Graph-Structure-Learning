@@ -8,6 +8,7 @@
 
 2024
 ----
+* [NeurIPS 2024] **Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning** [[Paper](https://arxiv.org/abs/2409.17386) | [Code](https://github.com/zxlearningdeep/InfoMGF/tree/main/InfoMGF)]
 * [TKDE 2024] **Bi-Level Graph Structure Learning for Next POI Recommendation** [[Paper](https://ieeexplore.ieee.org/abstract/document/10521856)]
 * [ICDE 2024] **Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting** [[Paper](https://arxiv.org/pdf/2312.16403)]
 * [ACL 2024] **S2GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis** [[Paper](https://arxiv.org/abs/2406.02902) | [Code](https://github.com/ouy7han/S2GSL)]
